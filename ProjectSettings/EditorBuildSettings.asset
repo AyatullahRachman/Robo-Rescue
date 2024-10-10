@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Robo Rescue City Chaos Main Menu.unity
+    guid: 325ae4f3cc335b546b875f453a5bf153
+  - enabled: 1
+    path: Assets/Scenes/Robo Rescue Level 1.unity
+    guid: 0e75ca84a3f5c544cbb8c0726cf3530b
+  m_configObjects: {}
